@@ -1,6 +1,6 @@
 # Hacker News Demo
 
-![Screen Recording 2024-07-19 at 15.01.00](./docs/Screen%20Recording%202024-07-19%20at%2015.01.00.mp4)
+[Watch Demo](./docs/Screen%20Recording%202024-07-19%20at%2015.01.00.mp4)
 
 This is a [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
